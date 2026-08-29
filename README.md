@@ -347,3 +347,8 @@ Run
 to generate the documentation. The generated HTML sits in `target/doc/`. Alternatively, to open a specific package's documentation directly in your browser, run:
 
     cargo doc -p <package> --open
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
